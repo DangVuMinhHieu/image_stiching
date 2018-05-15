@@ -1,0 +1,6 @@
+images/mountains/1.jpg
+images/mountains/2.jpg
+images/mountains/3.jpg
+images/mountains/4.jpg
+images/mountains/5.jpg
+images/mountains/6.jpg
